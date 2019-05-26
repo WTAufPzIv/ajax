@@ -1,0 +1,7 @@
+table,table tr th,table tr td{
+	height: 45px;
+	width: 650px;
+}
+.a{
+	display: none;
+}

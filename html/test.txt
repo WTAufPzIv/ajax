@@ -1,0 +1,1 @@
+{"code":0,"userList":[{"username":"郭丹琦","age":19,"class":"计科1704"},{"username":"陈江元","age":19,"class":"计科1704"},{"username":"王雪","age":19,"class":"计科1704"},{"username":"刘文萱","age":19,"class":"计卓1701"},{"username":"张炫","age":19,"class":"计科1604"},{"username":"李颜颜","age":19,"class":"软产1701"},{"username":"王戴文","age":19,"class":"计科1604"},{"username":"张晓辉","age":19,"class":"计科1604"}]}
